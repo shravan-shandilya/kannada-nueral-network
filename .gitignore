@@ -92,3 +92,4 @@ ENV/
 #My ignore rules
 Img/
 Downscaled/
+.DS_Store
