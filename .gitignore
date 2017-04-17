@@ -93,3 +93,4 @@ ENV/
 Img/
 Downscaled/
 .DS_Store
+*.csv
